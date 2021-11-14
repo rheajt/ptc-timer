@@ -1,5 +1,6 @@
 {
   "name": "obs-timer",
+  "homepage": "https://rheajt.github.io/ptc-timer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
